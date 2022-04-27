@@ -1,0 +1,580 @@
+,Category,Year,Make,Model
+0,Pickup,2020,Toyota,Tacoma Double Cab
+1,Coupe,2020,Toyota,GR Supra
+2,SUV,2020,Toyota,RAV4 Hybrid
+3,SUV,2020,Toyota,Sequoia
+4,Sedan,2020,Toyota,Corolla
+5,Sedan,2019,Toyota,Camry Hybrid
+6,Sedan,2020,Toyota,Camry Hybrid
+7,SUV,2020,Toyota,Highlander Hybrid
+8,Pickup,2020,Toyota,Tacoma Access Cab
+9,Sedan,2020,Toyota,Avalon
+10,SUV,2019,Toyota,RAV4
+11,Sedan,2019,Toyota,Mirai
+12,Sedan,2020,Toyota,Corolla Hybrid
+13,Sedan,2020,Toyota,Yaris
+14,SUV,2018,Toyota,4Runner
+15,SUV,2020,Toyota,Highlander
+16,SUV,2020,Toyota,4Runner
+17,Hatchback,2020,Toyota,Yaris Hatchback
+18,Hatchback,2020,Toyota,Corolla Hatchback
+19,SUV,2020,Toyota,RAV4
+20,Sedan,2019,Toyota,Avalon
+21,Pickup,2019,Toyota,Tacoma Access Cab
+22,Hatchback,2019,Toyota,Prius Prime
+23,Hatchback,2018,Toyota,Prius Prime
+24,Pickup,2020,Toyota,Tundra CrewMax
+25,Pickup,2019,Toyota,Tundra Double Cab
+26,Sedan,2018,Toyota,Camry Hybrid
+27,Hatchback,2017,Toyota,Prius
+28,SUV,2018,Toyota,Sequoia
+29,Sedan,2018,Toyota,Corolla
+30,SUV,2017,Toyota,Highlander Hybrid
+31,Sedan,2020,Toyota,Avalon Hybrid
+32,Coupe,2020,Toyota,86
+33,Hatchback,2020,Toyota,Prius
+34,SUV,2020,Toyota,C-HR
+35,Coupe,2019,Toyota,86
+36,SUV,2019,Toyota,C-HR
+37,Sedan,2019,Toyota,Avalon Hybrid
+38,Hatchback,2019,Toyota,Prius
+39,Van/Minivan,2019,Toyota,Sienna
+40,SUV,2019,Toyota,Highlander Hybrid
+41,Sedan,2019,Toyota,Yaris
+42,Hatchback,2018,Toyota,Yaris
+43,Hatchback,2017,Toyota,Prius Prime
+44,SUV,2018,Toyota,Highlander Hybrid
+45,Hatchback,2018,Toyota,Prius
+46,Sedan,2018,Toyota,Yaris iA
+47,Wagon,2017,Toyota,Prius v
+48,Hatchback,2018,Toyota,Prius c
+49,SUV,2017,Toyota,Land Cruiser
+50,Pickup,2017,Toyota,Tacoma Access Cab
+51,Sedan,2020,Toyota,Camry
+52,Hatchback,2020,Toyota,Prius Prime
+53,SUV,2020,Toyota,Land Cruiser
+54,Van/Minivan,2020,Toyota,Sienna
+55,Sedan,2019,Toyota,Corolla
+56,SUV,2019,Toyota,Highlander
+57,Pickup,2019,Toyota,Tacoma Double Cab
+58,Sedan,2019,Toyota,Camry
+59,SUV,2018,Toyota,C-HR
+60,Sedan,2018,Toyota,Camry
+61,SUV,2019,Toyota,Sequoia
+62,SUV,2017,Toyota,Highlander
+63,Sedan,2017,Toyota,Mirai
+64,Pickup,2018,Toyota,Tacoma Access Cab
+65,Pickup,2018,Toyota,Tundra CrewMax
+66,SUV,2017,Toyota,4Runner
+67,SUV,2017,Toyota,Sequoia
+68,Coupe,2017,Toyota,86
+69,SUV,2018,Toyota,RAV4 Hybrid
+70,Pickup,2017,Toyota,Tundra CrewMax
+71,Hatchback,2019,Toyota,Prius c
+72,Pickup,2020,Toyota,Tundra Double Cab
+73,Hatchback,2019,Toyota,Corolla Hatchback
+74,Sedan,2018,Toyota,Avalon
+75,SUV,2019,Toyota,4Runner
+76,Sedan,2018,Toyota,Mirai
+77,SUV,2019,Toyota,RAV4 Hybrid
+78,Sedan,2018,Toyota,Avalon Hybrid
+79,SUV,2017,Toyota,RAV4 Hybrid
+80,Sedan,2017,Toyota,Corolla
+81,Sedan,2017,Toyota,Avalon Hybrid
+82,Sedan,2017,Toyota,Avalon
+83,Pickup,2018,Toyota,Tundra Double Cab
+84,Hatchback,2017,Toyota,Corolla iM
+85,Van/Minivan,2017,Toyota,Sienna
+86,Pickup,2017,Toyota,Tundra Double Cab
+87,SUV,2019,Toyota,Land Cruiser
+88,Coupe,2018,Toyota,86
+89,Pickup,2019,Toyota,Tundra CrewMax
+90,SUV,2018,Toyota,Highlander
+91,SUV,2018,Toyota,Land Cruiser
+92,Van/Minivan,2018,Toyota,Sienna
+93,SUV,2018,Toyota,RAV4
+94,Pickup,2018,Toyota,Tacoma Double Cab
+95,Sedan,2017,Toyota,Camry Hybrid
+96,Pickup,2017,Toyota,Tacoma Double Cab
+97,SUV,2017,Toyota,RAV4
+98,Sedan,2017,Toyota,Camry
+99,Hatchback,2018,Toyota,Corolla iM
+100,Hatchback,2017,Toyota,Prius c
+101,Pickup,2017,Toyota,Tundra Regular Cab
+102,SUV,2016,Toyota,Sequoia
+103,Sedan,2016,Toyota,Mirai
+104,Hatchback,2016,Toyota,Prius
+105,Sedan,2016,Toyota,Corolla
+106,SUV,2016,Toyota,RAV4
+107,SUV,2016,Toyota,4Runner
+108,SUV,2016,Toyota,Land Cruiser
+109,Hatchback,2017,Toyota,Yaris
+110,Pickup,2016,Toyota,Tacoma Access Cab
+111,Sedan,2017,Toyota,Yaris iA
+112,Sedan,2016,Toyota,Avalon
+113,Pickup,2016,Toyota,Tundra Double Cab
+114,Hatchback,2016,Toyota,Prius c
+115,Pickup,2016,Toyota,Tundra CrewMax
+116,SUV,2015,Toyota,4Runner
+117,SUV,2016,Toyota,Highlander
+118,Sedan,2016,Toyota,Camry
+119,Pickup,2016,Toyota,Tacoma Double Cab
+120,Wagon,2016,Toyota,Prius v
+121,Van/Minivan,2016,Toyota,Sienna
+122,Pickup,2016,Toyota,Tundra Regular Cab
+123,Pickup,2015,Toyota,Tundra Double Cab
+124,Hatchback,2016,Toyota,Yaris
+125,Sedan,2015,Toyota,Camry
+126,SUV,2015,Toyota,RAV4
+127,SUV,2015,Toyota,Land Cruiser
+128,Sedan,2015,Toyota,Avalon
+129,Wagon,2015,Toyota,Prius v
+130,SUV,2015,Toyota,Sequoia
+131,SUV,2015,Toyota,Highlander
+132,Hatchback,2015,Toyota,Prius
+133,Van/Minivan,2015,Toyota,Sienna
+134,Hatchback,2015,Toyota,Prius c
+135,Pickup,2015,Toyota,Tundra CrewMax
+136,Hatchback,2015,Toyota,Prius Plug-in Hybrid
+137,Pickup,2015,Toyota,Tacoma Double Cab
+138,SUV,2014,Toyota,Highlander
+139,Pickup,2015,Toyota,Tundra Regular Cab
+140,Sedan,2014,Toyota,Avalon
+141,Sedan,2014,Toyota,Camry
+142,SUV,2014,Toyota,4Runner
+143,SUV,2014,Toyota,FJ Cruiser
+144,Hatchback,2015,Toyota,Yaris
+145,Wagon,2014,Toyota,Prius v
+146,SUV,2014,Toyota,Land Cruiser
+147,Sedan,2015,Toyota,Corolla
+148,SUV,2014,Toyota,RAV4
+149,Hatchback,2014,Toyota,Prius Plug-in Hybrid
+150,Hatchback,2014,Toyota,Prius
+151,Pickup,2014,Toyota,Tacoma Regular Cab
+152,Pickup,2014,Toyota,Tacoma Double Cab
+153,Wagon,2014,Toyota,Venza
+154,Pickup,2015,Toyota,Tacoma Access Cab
+155,Pickup,2014,Toyota,Tacoma Access Cab
+156,Sedan,2013,Toyota,Corolla
+157,SUV,2014,Toyota,Sequoia
+158,Hatchback,2014,Toyota,Yaris
+159,Wagon,2015,Toyota,Venza
+160,Sedan,2014,Toyota,Corolla
+161,Hatchback,2013,Toyota,Prius
+162,SUV,2013,Toyota,4Runner
+163,Pickup,2014,Toyota,Tundra CrewMax
+164,Pickup,2014,Toyota,Tundra Regular Cab
+165,SUV,2013,Toyota,FJ Cruiser
+166,Sedan,2013,Toyota,Camry
+167,Hatchback,2013,Toyota,Prius c
+168,Hatchback,2014,Toyota,Prius c
+169,Pickup,2013,Toyota,Tacoma Regular Cab
+170,Hatchback,2013,Toyota,Yaris
+171,SUV,2013,Toyota,Sequoia
+172,Van/Minivan,2014,Toyota,Sienna
+173,Sedan,2012,Toyota,Avalon
+174,SUV,2012,Toyota,FJ Cruiser
+175,Van/Minivan,2013,Toyota,Sienna
+176,Pickup,2014,Toyota,Tundra Double Cab
+177,Pickup,2013,Toyota,Tacoma Double Cab
+178,Pickup,2013,Toyota,Tundra CrewMax
+179,SUV,2012,Toyota,4Runner
+180,Wagon,2012,Toyota,Matrix
+181,SUV,2013,Toyota,Highlander
+182,SUV,2012,Toyota,RAV4
+183,Sedan,2012,Toyota,Camry
+184,Wagon,2013,Toyota,Matrix
+185,Pickup,2013,Toyota,Tundra Double Cab
+186,Wagon,2013,Toyota,Prius v
+187,Pickup,2013,Toyota,Tacoma Access Cab
+188,SUV,2013,Toyota,RAV4
+189,SUV,2013,Toyota,Venza
+190,SUV,2012,Toyota,Highlander
+191,Hatchback,2013,Toyota,Prius Plug-in Hybrid
+192,SUV,2013,Toyota,Land Cruiser
+193,Sedan,2013,Toyota,Avalon
+194,SUV,2012,Toyota,Sequoia
+195,Hatchback,2012,Toyota,Prius c
+196,Pickup,2013,Toyota,Tundra Regular Cab
+197,Wagon,2012,Toyota,Prius v
+198,Hatchback,2012,Toyota,Prius Plug-in Hybrid
+199,Sedan,2012,Toyota,Corolla
+200,Hatchback,2012,Toyota,Prius
+201,Van/Minivan,2012,Toyota,Sienna
+202,Pickup,2012,Toyota,Tundra CrewMax
+203,Pickup,2012,Toyota,Tacoma Access Cab
+204,Pickup,2012,Toyota,Tacoma Regular Cab
+205,Pickup,2012,Toyota,Tacoma Double Cab
+206,Pickup,2012,Toyota,Tundra Regular Cab
+207,SUV,2011,Toyota,4Runner
+208,Sedan,2011,Toyota,Avalon
+209,Pickup,2012,Toyota,Tundra Double Cab
+210,SUV,2011,Toyota,Highlander
+211,SUV,2011,Toyota,Sequoia
+212,"Hatchback, Sedan",2012,Toyota,Yaris
+213,Wagon,2012,Toyota,Venza
+214,SUV,2011,Toyota,FJ Cruiser
+215,Sedan,2011,Toyota,Corolla
+216,SUV,2010,Toyota,4Runner
+217,SUV,2011,Toyota,RAV4
+218,Pickup,2011,Toyota,Tacoma Double Cab
+219,SUV,2011,Toyota,Land Cruiser
+220,Wagon,2011,Toyota,Venza
+221,Pickup,2011,Toyota,Tacoma Access Cab
+222,Sedan,2011,Toyota,Camry
+223,Wagon,2011,Toyota,Matrix
+224,Pickup,2011,Toyota,Tacoma Regular Cab
+225,Pickup,2011,Toyota,Tundra CrewMax
+226,Hatchback,2011,Toyota,Prius
+227,Van/Minivan,2011,Toyota,Sienna
+228,Sedan,2010,Toyota,Corolla
+229,Pickup,2011,Toyota,Tundra Double Cab
+230,Sedan,2009,Toyota,Corolla
+231,SUV,2010,Toyota,Highlander
+232,SUV,2010,Toyota,FJ Cruiser
+233,SUV,2010,Toyota,Sequoia
+234,Hatchback,2010,Toyota,Prius
+235,Pickup,2010,Toyota,Tundra Double Cab
+236,Pickup,2010,Toyota,Tacoma Access Cab
+237,Van/Minivan,2010,Toyota,Sienna
+238,Sedan,2010,Toyota,Camry
+239,Pickup,2011,Toyota,Tundra Regular Cab
+240,Wagon,2010,Toyota,Matrix
+241,Pickup,2010,Toyota,Tacoma Double Cab
+242,Wagon,2010,Toyota,Venza
+243,"Hatchback, Sedan",2011,Toyota,Yaris
+244,Sedan,2010,Toyota,Avalon
+245,Pickup,2010,Toyota,Tacoma Regular Cab
+246,Pickup,2010,Toyota,Tundra CrewMax
+247,SUV,2009,Toyota,4Runner
+248,SUV,2010,Toyota,RAV4
+249,SUV,2010,Toyota,Land Cruiser
+250,SUV,2009,Toyota,Highlander
+251,Pickup,2010,Toyota,Tundra Regular Cab
+252,SUV,2009,Toyota,Sequoia
+253,Wagon,2009,Toyota,Venza
+254,Sedan,2009,Toyota,Avalon
+255,Hatchback,2009,Toyota,Prius
+256,Pickup,2009,Toyota,Tundra CrewMax
+257,SUV,2008,Toyota,4Runner
+258,"Sedan, Hatchback",2010,Toyota,Yaris
+259,SUV,2009,Toyota,FJ Cruiser
+260,Pickup,2009,Toyota,Tacoma Double Cab
+261,Sedan,2009,Toyota,Camry
+262,SUV,2009,Toyota,Land Cruiser
+263,SUV,2009,Toyota,RAV4
+264,Van/Minivan,2009,Toyota,Sienna
+265,Sedan,2008,Toyota,Corolla
+266,Hatchback,2008,Toyota,Prius
+267,Pickup,2009,Toyota,Tacoma Regular Cab
+268,Pickup,2009,Toyota,Tacoma Access Cab
+269,Pickup,2008,Toyota,Tundra Regular Cab
+270,Pickup,2009,Toyota,Tundra Regular Cab
+271,Pickup,2008,Toyota,Tacoma Access Cab
+272,Pickup,2009,Toyota,Tundra Double Cab
+273,SUV,2008,Toyota,RAV4
+274,"Hatchback, Sedan",2009,Toyota,Yaris
+275,Wagon,2009,Toyota,Matrix
+276,SUV,2008,Toyota,Highlander
+277,SUV,2008,Toyota,FJ Cruiser
+278,Sedan,2008,Toyota,Avalon
+279,SUV,2008,Toyota,Sequoia
+280,Sedan,2008,Toyota,Camry
+281,SUV,2007,Toyota,4Runner
+282,Pickup,2008,Toyota,Tacoma Regular Cab
+283,SUV,2008,Toyota,Land Cruiser
+284,Van/Minivan,2008,Toyota,Sienna
+285,Sedan,2007,Toyota,Corolla
+286,SUV,2007,Toyota,Highlander
+287,Wagon,2008,Toyota,Matrix
+288,Hatchback,2007,Toyota,Prius
+289,SUV,2007,Toyota,FJ Cruiser
+290,SUV,2007,Toyota,Sequoia
+291,Sedan,2007,Toyota,Camry
+292,Sedan,2007,Toyota,Avalon
+293,"Hatchback, Sedan",2008,Toyota,Yaris
+294,SUV,2007,Toyota,Land Cruiser
+295,Pickup,2008,Toyota,Tacoma Double Cab
+296,Pickup,2008,Toyota,Tundra CrewMax
+297,Pickup,2008,Toyota,Tundra Double Cab
+298,"Coupe, Convertible",2008,Toyota,Solara
+299,SUV,2007,Toyota,RAV4
+300,Wagon,2007,Toyota,Matrix
+301,Van/Minivan,2007,Toyota,Sienna
+302,"Convertible, Coupe",2007,Toyota,Solara
+303,Pickup,2007,Toyota,Tacoma Access Cab
+304,Sedan,2006,Toyota,Corolla
+305,Pickup,2007,Toyota,Tacoma Regular Cab
+306,Pickup,2007,Toyota,Tundra Regular Cab
+307,Pickup,2007,Toyota,Tacoma Double Cab
+308,SUV,2006,Toyota,RAV4
+309,SUV,2006,Toyota,Highlander
+310,Pickup,2007,Toyota,Tundra CrewMax
+311,Sedan,2006,Toyota,Avalon
+312,"Hatchback, Sedan",2007,Toyota,Yaris
+313,SUV,2006,Toyota,Land Cruiser
+314,Pickup,2007,Toyota,Tundra Double Cab
+315,Sedan,2006,Toyota,Camry
+316,SUV,2006,Toyota,Sequoia
+317,Van/Minivan,2006,Toyota,Sienna
+318,SUV,2006,Toyota,4Runner
+319,Pickup,2006,Toyota,Tundra Access Cab
+320,Wagon,2006,Toyota,Matrix
+321,Hatchback,2006,Toyota,Prius
+322,Pickup,2006,Toyota,Tacoma Regular Cab
+323,Pickup,2006,Toyota,Tacoma Double Cab
+324,Pickup,2006,Toyota,Tacoma Access Cab
+325,"Coupe, Convertible",2006,Toyota,Solara
+326,Sedan,2005,Toyota,Camry
+327,SUV,2005,Toyota,4Runner
+328,Sedan,2005,Toyota,Avalon
+329,Pickup,2006,Toyota,Tundra Double Cab
+330,Sedan,2005,Toyota,Echo
+331,SUV,2005,Toyota,Land Cruiser
+332,Pickup,2005,Toyota,Tundra Regular Cab
+333,SUV,2005,Toyota,Sequoia
+334,SUV,2005,Toyota,Highlander
+335,"Coupe, Convertible",2005,Toyota,Solara
+336,Sedan,2004,Toyota,Avalon
+337,SUV,2004,Toyota,4Runner
+338,Pickup,2006,Toyota,Tundra Regular Cab
+339,Wagon,2005,Toyota,Matrix
+340,Hatchback,2005,Toyota,Celica
+341,Pickup,2005,Toyota,Tacoma Access Cab
+342,Pickup,2005,Toyota,Tacoma Double Cab
+343,Sedan,2004,Toyota,Corolla
+344,Pickup,2004,Toyota,Tacoma Double Cab
+345,Hatchback,2005,Toyota,Prius
+346,Van/Minivan,2005,Toyota,Sienna
+347,Sedan,2005,Toyota,Corolla
+348,Sedan,2004,Toyota,Echo
+349,SUV,2004,Toyota,RAV4
+350,SUV,2005,Toyota,RAV4
+351,Pickup,2005,Toyota,Tacoma Regular Cab
+352,Sedan,2004,Toyota,Prius
+353,Sedan,2004,Toyota,Camry
+354,Convertible,2005,Toyota,MR2
+355,SUV,2004,Toyota,Highlander
+356,Pickup,2005,Toyota,Tundra Access Cab
+357,Pickup,2005,Toyota,Tundra Double Cab
+358,Convertible,2004,Toyota,MR2
+359,Hatchback,2004,Toyota,Celica
+360,SUV,2004,Toyota,Sequoia
+361,"Coupe, Convertible",2004,Toyota,Solara
+362,Van/Minivan,2004,Toyota,Sienna
+363,Pickup,2004,Toyota,Tundra Regular Cab
+364,Pickup,2004,Toyota,Tacoma Regular Cab
+365,Hatchback,2003,Toyota,Celica
+366,Pickup,2004,Toyota,Tundra Double Cab
+367,Pickup,2004,Toyota,Tacoma Xtracab
+368,SUV,2003,Toyota,4Runner
+369,Wagon,2003,Toyota,Matrix
+370,Van/Minivan,2003,Toyota,Sienna
+371,Sedan,2003,Toyota,Echo
+372,SUV,2004,Toyota,Land Cruiser
+373,Pickup,2004,Toyota,Tundra Access Cab
+374,"Hatchback, Wagon",2004,Toyota,Matrix
+375,Sedan,2003,Toyota,Corolla
+376,Convertible,2003,Toyota,MR2
+377,Sedan,2003,Toyota,Prius
+378,"Coupe, Convertible",2003,Toyota,Solara
+379,Sedan,2003,Toyota,Avalon
+380,SUV,2003,Toyota,RAV4
+381,Sedan,2003,Toyota,Camry
+382,SUV,2003,Toyota,Sequoia
+383,Pickup,2003,Toyota,Tundra Access Cab
+384,Sedan,2002,Toyota,Corolla
+385,SUV,2003,Toyota,Land Cruiser
+386,Pickup,2003,Toyota,Tacoma Double Cab
+387,SUV,2003,Toyota,Highlander
+388,Pickup,2003,Toyota,Tundra Regular Cab
+389,SUV,2002,Toyota,4Runner
+390,Convertible,2002,Toyota,MR2
+391,Hatchback,2002,Toyota,Celica
+392,Sedan,2002,Toyota,Prius
+393,Sedan,2002,Toyota,Camry
+394,SUV,2002,Toyota,RAV4
+395,Pickup,2003,Toyota,Tacoma Regular Cab
+396,"Sedan, Coupe",2002,Toyota,Echo
+397,Sedan,2002,Toyota,Avalon
+398,Pickup,2003,Toyota,Tacoma Xtracab
+399,SUV,2002,Toyota,Highlander
+400,SUV,2002,Toyota,Land Cruiser
+401,Van/Minivan,2002,Toyota,Sienna
+402,Sedan,2001,Toyota,Prius
+403,SUV,2001,Toyota,Highlander
+404,"Coupe, Convertible",2002,Toyota,Solara
+405,Pickup,2002,Toyota,Tundra Access Cab
+406,SUV,2001,Toyota,4Runner
+407,SUV,2001,Toyota,Land Cruiser
+408,Sedan,2001,Toyota,Corolla
+409,Pickup,2002,Toyota,Tacoma Regular Cab
+410,Pickup,2002,Toyota,Tundra Regular Cab
+411,SUV,2002,Toyota,Sequoia
+412,Hatchback,2001,Toyota,Celica
+413,Sedan,2001,Toyota,Avalon
+414,SUV,2001,Toyota,Sequoia
+415,Pickup,2002,Toyota,Tacoma Double Cab
+416,Pickup,2002,Toyota,Tacoma Xtracab
+417,"Coupe, Sedan",2001,Toyota,Echo
+418,Sedan,2001,Toyota,Camry
+419,Pickup,2001,Toyota,Tundra Regular Cab
+420,Sedan,2000,Toyota,Avalon
+421,Sedan,2000,Toyota,Camry
+422,Pickup,2001,Toyota,Tundra Access Cab
+423,SUV,2001,Toyota,RAV4
+424,Van/Minivan,2001,Toyota,Sienna
+425,Pickup,2001,Toyota,Tacoma Xtracab
+426,Pickup,2001,Toyota,Tacoma Regular Cab
+427,Convertible,2001,Toyota,MR2
+428,"Coupe, Convertible",2001,Toyota,Solara
+429,Sedan,2000,Toyota,Corolla
+430,Hatchback,2000,Toyota,Celica
+431,Convertible,2000,Toyota,MR2
+432,Pickup,2001,Toyota,Tacoma Double Cab
+433,"Sedan, Coupe",2000,Toyota,Echo
+434,SUV,2000,Toyota,Land Cruiser
+435,SUV,2000,Toyota,4Runner
+436,"Coupe, Convertible",2000,Toyota,Solara
+437,Pickup,2000,Toyota,Tundra Regular Cab
+438,Pickup,2000,Toyota,Tacoma Regular Cab
+439,SUV,2000,Toyota,RAV4
+440,Van/Minivan,2000,Toyota,Sienna
+441,SUV,1999,Toyota,RAV4
+442,Sedan,1999,Toyota,Avalon
+443,Sedan,1999,Toyota,Camry
+444,Pickup,2000,Toyota,Tacoma Xtracab
+445,Van/Minivan,1999,Toyota,Sienna
+446,SUV,1999,Toyota,Land Cruiser
+447,SUV,1999,Toyota,4Runner
+448,Sedan,1998,Toyota,Avalon
+449,Pickup,1998,Toyota,Tacoma Regular Cab
+450,Pickup,1999,Toyota,Tacoma Regular Cab
+451,Van/Minivan,1998,Toyota,Sienna
+452,"Hatchback, Convertible",1999,Toyota,Celica
+453,SUV,1998,Toyota,Land Cruiser
+454,Pickup,1999,Toyota,Tacoma Xtracab
+455,SUV,1998,Toyota,RAV4
+456,Pickup,2000,Toyota,Tundra Access Cab
+457,Coupe,1999,Toyota,Solara
+458,Sedan,1997,Toyota,Camry
+459,Sedan,1999,Toyota,Corolla
+460,SUV,1997,Toyota,4Runner
+461,Sedan,1998,Toyota,Camry
+462,SUV,1998,Toyota,4Runner
+463,"Coupe, Hatchback, Convertible",1998,Toyota,Celica
+464,Pickup,1998,Toyota,T100 Regular Cab
+465,Sedan,1998,Toyota,Corolla
+466,SUV,1997,Toyota,Land Cruiser
+467,Van/Minivan,1997,Toyota,Previa
+468,Pickup,1998,Toyota,Tacoma Xtracab
+469,Sedan,1997,Toyota,Corolla
+470,Pickup,1998,Toyota,T100 Xtracab
+471,Sedan,1997,Toyota,Avalon
+472,"Hatchback, Coupe, Convertible",1997,Toyota,Celica
+473,Sedan,1998,Toyota,Tercel
+474,Hatchback,1998,Toyota,Supra
+475,Pickup,1997,Toyota,T100 Regular Cab
+476,Pickup,1997,Toyota,Tacoma Regular Cab
+477,Van/Minivan,1996,Toyota,Previa
+478,Pickup,1997,Toyota,T100 Xtracab
+479,Pickup,1997,Toyota,Tacoma Xtracab
+480,"Hatchback, Convertible",1997,Toyota,Paseo
+481,SUV,1996,Toyota,Land Cruiser
+482,"Sedan, Coupe, Wagon",1996,Toyota,Camry
+483,SUV,1997,Toyota,RAV4
+484,SUV,1996,Toyota,4Runner
+485,Pickup,1996,Toyota,Tacoma Xtracab
+486,Pickup,1996,Toyota,Tacoma Regular Cab
+487,Hatchback,1997,Toyota,Supra
+488,Sedan,1996,Toyota,Avalon
+489,Pickup,1996,Toyota,T100 Regular Cab
+490,SUV,1996,Toyota,RAV4
+491,Sedan,1997,Toyota,Tercel
+492,Hatchback,1996,Toyota,Supra
+493,"Sedan, Wagon",1996,Toyota,Corolla
+494,"Sedan, Coupe, Wagon",1995,Toyota,Camry
+495,SUV,1995,Toyota,4Runner
+496,Sedan,1995,Toyota,Avalon
+497,Coupe,1996,Toyota,Paseo
+498,"Hatchback, Convertible, Coupe",1996,Toyota,Celica
+499,Pickup,1996,Toyota,T100 Xtracab
+500,Sedan,1996,Toyota,Tercel
+501,"Hatchback, Convertible, Coupe",1995,Toyota,Celica
+502,"Sedan, Wagon",1995,Toyota,Corolla
+503,Hatchback,1995,Toyota,MR2
+504,Hatchback,1995,Toyota,Supra
+505,Coupe,1995,Toyota,Paseo
+506,Pickup,1995,Toyota,Tacoma Regular Cab
+507,SUV,1995,Toyota,Land Cruiser
+508,Van/Minivan,1995,Toyota,Previa
+509,Pickup,1995,Toyota,T100 Regular Cab
+510,SUV,1994,Toyota,4Runner
+511,Pickup,1995,Toyota,Regular Cab
+512,Pickup,1995,Toyota,Tacoma Xtracab
+513,Sedan,1995,Toyota,Tercel
+514,Pickup,1995,Toyota,T100 Xtracab
+515,Pickup,1995,Toyota,Xtra Cab
+516,Coupe,1994,Toyota,Paseo
+517,Sedan,1994,Toyota,Tercel
+518,Pickup,1994,Toyota,T100 Regular Cab
+519,SUV,1994,Toyota,Land Cruiser
+520,"Hatchback, Coupe",1994,Toyota,Celica
+521,Pickup,1994,Toyota,Xtra Cab
+522,Coupe,1994,Toyota,MR2
+523,"Coupe, Wagon, Sedan",1994,Toyota,Camry
+524,"Sedan, Wagon",1994,Toyota,Corolla
+525,Van/Minivan,1994,Toyota,Previa
+526,"Coupe, Hatchback, Convertible",1993,Toyota,Celica
+527,Hatchback,1994,Toyota,Supra
+528,Pickup,1994,Toyota,Regular Cab
+529,"Sedan, Wagon",1993,Toyota,Corolla
+530,Hatchback,1993,Toyota,Supra
+531,"Coupe, Sedan",1993,Toyota,Tercel
+532,Coupe,1993,Toyota,MR2
+533,"Coupe, Convertible, Hatchback",1992,Toyota,Celica
+534,Pickup,1992,Toyota,Regular Cab
+535,Van/Minivan,1993,Toyota,Previa
+536,SUV,1993,Toyota,4Runner
+537,"Wagon, Sedan",1993,Toyota,Camry
+538,Sedan,1992,Toyota,Cressida
+539,SUV,1993,Toyota,Land Cruiser
+540,Coupe,1992,Toyota,Paseo
+541,SUV,1992,Toyota,Land Cruiser
+542,Coupe,1993,Toyota,Paseo
+543,Sedan,1992,Toyota,Tercel
+544,Pickup,1993,Toyota,T100 Regular Cab
+545,SUV,1992,Toyota,4Runner
+546,Pickup,1993,Toyota,Regular Cab
+547,Hatchback,1992,Toyota,Supra
+548,"Sedan, Wagon",1992,Toyota,Camry
+549,Van/Minivan,1992,Toyota,Previa
+550,Pickup,1993,Toyota,Xtra Cab
+551,"Sedan, Wagon",1992,Toyota,Corolla
+552,Coupe,1992,Toyota,MR2
+553,Pickup,1992,Toyota,Xtra Cab
+554,Sedan,2021,Toyota,Avalon
+555,SUV,2021,Toyota,4Runner
+556,Hatchback,2021,Toyota,Prius Prime
+557,SUV,2021,Toyota,RAV4
+558,Sedan,2021,Toyota,Camry
+559,SUV,2021,Toyota,C-HR
+560,SUV,2021,Toyota,RAV4 Prime
+561,Sedan,2021,Toyota,Corolla Hybrid
+562,SUV,2021,Toyota,RAV4 Hybrid
+563,SUV,2021,Toyota,Land Cruiser
+564,SUV,2021,Toyota,Highlander Hybrid
+565,Pickup,2021,Toyota,Tacoma Access Cab
+566,Hatchback,2021,Toyota,Prius
+567,Sedan,2021,Toyota,Avalon Hybrid
+568,SUV,2021,Toyota,Sequoia
+569,Van/Minivan,2021,Toyota,Sienna
+570,Hatchback,2021,Toyota,Corolla Hatchback
+571,SUV,2021,Toyota,Highlander
+572,Sedan,2021,Toyota,Camry Hybrid
+573,Coupe,2021,Toyota,GR Supra
+574,Sedan,2021,Toyota,Corolla
+575,Pickup,2021,Toyota,Tacoma Double Cab
+576,Pickup,2021,Toyota,Tundra Double Cab
+577,Pickup,2021,Toyota,Tundra CrewMax
+578,SUV,2021,Toyota,Venza
